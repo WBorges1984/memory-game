@@ -77,7 +77,7 @@ function checkMatch(){
 
     }
     openCards = [];
-    counter = counter +1;
+
     if(document.querySelectorAll(".boxMatch").length === emojis.length){
         alert("Você venceu!")
     }
